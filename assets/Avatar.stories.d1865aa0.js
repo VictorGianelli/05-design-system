@@ -1,0 +1,2 @@
+import{A as t}from"./index.95583cbb.js";import"./jsx-runtime.7f5e0f2b.js";import"./iframe.ca31f61e.js";import"./index.4760af36.js";const s={title:"Data display/Avatar",component:t,args:{src:"https://github.com/victorgianelli.png",alt:"Victor Gianelli"},argTypes:{src:{control:{type:"text"}}}},c={},l={args:{src:void 0}},e=["Primary","WithFallback"];export{c as Primary,l as WithFallback,e as __namedExportsOrder,s as default};
+//# sourceMappingURL=Avatar.stories.d1865aa0.js.map
